@@ -1,5 +1,5 @@
 import * as dontenv from "dotenv";
-import endpoints from "./endpoints.json";
+import endpoints from "../endpoints.json";
 import * as payload from "./payload-login";
 import https from "./httpsMethods";
 
