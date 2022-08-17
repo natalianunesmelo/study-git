@@ -1,1 +1,1 @@
-# study-git
+# study-qa

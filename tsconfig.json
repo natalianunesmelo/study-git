@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "lib": [
+        "es2021"
+      ],
+      "moduleResolution": "node",
+      "target": "es2021",
+      "resolveJsonModule": true,
+      "allowJs": true,
+      "esModuleInterop": true,
+      "module": "commonjs",
+      "strict": true,
+      "skipLibCheck": true
+    }
+  }
